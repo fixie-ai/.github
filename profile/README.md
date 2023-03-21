@@ -13,9 +13,6 @@ that allows developers to build smart agents that couple LLMs with back-end logi
 <a href="https://twitter.com/fixieai">
 <img src="https://img.shields.io/badge/Twitter-2F9EFD?style=for-the-badge&logo=twitter&logoColor=blue"/>
 </a>
-<a href="https://www.youtube.com/@logspace_ai/">
-<img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=red"/>
-</a>
 <a href="https://blog.fixie.ai">
 <img src="https://img.shields.io/badge/Medium-FFD606?style=for-the-badge&logo=medium&logoColor=black"/>
 </a>
