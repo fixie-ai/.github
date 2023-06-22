@@ -1,6 +1,6 @@
 ## Hi there, we're Fixie! 🦊
 
-[Fixie](https://fixie.ai/) is the platform for building applications using Large Language Models. We provide [AI.JSX](https://github.com/fixie-ai/ai-jsx), an open-source JSX-based framework that makes it easier for React and JS developers to build apps on LLMs, and a [cloud-based platform-as-a-service](https://app.fixie.ai) for hosting those apps and connecting them to existing data, systems, and tools.
+[Fixie](https://fixie.ai/) is the platform for building applications using Large Language Models. We provide [AI.JSX](https://github.com/fixie-ai/ai-jsx), an open-source JSX-based framework that makes it easier for React and JS developers to build apps on LLMs, and [Fixie Cloud](https://app.fixie.ai), a cloud-based platform-as-a-service for hosting those apps and connecting them to existing data, systems, and tools.
 
 <p align="center">
 <a href="https://fixie.ai/">
