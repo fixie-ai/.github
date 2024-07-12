@@ -1,7 +1,6 @@
-## Hi there, we're Fixie! 🦊
+## Hi, we're Fixie
 
-[Fixie](https://fixie.ai/) is the platform for building applications using Large Language Models. We provide [AI.JSX](https://github.com/fixie-ai/ai-jsx), an open-source JSX-based framework that makes it easier for React and JS developers to build apps on LLMs, and [Fixie Cloud](https://app.fixie.ai), a cloud-based platform-as-a-service for hosting those apps and connecting them to existing data, systems, and tools.
-
+[Fixie](https://fixie.ai/) building the technology stack to enable natural, real-time conversation with AI. We provide [Ultravox](https://github.com/fixie-ai/ultravox), an open-source multi-modal model specifically designed for voice-based intreactions.
 <p align="center">
 <a href="https://fixie.ai/">
 <img src="https://img.shields.io/badge/Web-681DFF?style=for-the-badge&logo=web&logoColor=white" />
